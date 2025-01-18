@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "f4e812ee-3f3c-46c8-b390-42a94e3e723a",
+		"name": "Overall rating API testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39039937"
+	},
+	"item": [
+		{
+			"name": "Alfa romeo model API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
